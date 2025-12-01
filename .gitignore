@@ -1,3 +1,4 @@
 .env
 ruff.html
 new.html
+martialarts/__pycache__/*.pyc
